@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCalc2", "WindowsFormsCalc2\WindowsFormsCalc2.csproj", "{42893CF2-BCA4-455B-B555-B87EBF37C8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCalc2Tests", "WindowsFormsCalc2Tests\WindowsFormsCalc2Tests.csproj", "{C92CC30D-B794-4C6E-94D4-E292AFC21229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42893CF2-BCA4-455B-B555-B87EBF37C8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42893CF2-BCA4-455B-B555-B87EBF37C8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42893CF2-BCA4-455B-B555-B87EBF37C8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42893CF2-BCA4-455B-B555-B87EBF37C8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92CC30D-B794-4C6E-94D4-E292AFC21229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92CC30D-B794-4C6E-94D4-E292AFC21229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92CC30D-B794-4C6E-94D4-E292AFC21229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92CC30D-B794-4C6E-94D4-E292AFC21229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9E58E3-6D81-4DCB-8966-0A0FEED4319C}
+	EndGlobalSection
+EndGlobal
